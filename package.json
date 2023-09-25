@@ -1,7 +1,7 @@
 {
   "name": "zifa",
   "version": "0.1.0",
-  "homepage": "https://zifaai.com",
+  "homepage": "https://zifa-ai.vercel.app/",
   "private": true,
   "dependencies": {
     "@headlessui/react": "^1.7.17",
